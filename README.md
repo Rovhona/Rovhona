@@ -17,7 +17,7 @@
 
 ## 🧠 Honours Project
 
-Quality Index Prediction for Fresh Produce :
+##Quality Index Prediction for Fresh Produce :
 Leveraging machine learning to assess and predict the quality of fresh produce in real time. This project aims to support smarter agricultural decisions, reduce food waste, and ensure better produce quality for consumers. The system applies statistical and predictive modeling techniques to build a robust quality index based on various freshness indicators. The project follows the Software Development Life Cycle (SDLC) to ensure quality and scalability.
  
 
