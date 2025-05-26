@@ -47,7 +47,7 @@ Leveraging machine learning to assess and predict the quality of fresh produce i
  🚀 Full-stack portfolio website with project showcases  
 - 📊 Honours project on fresh produce quality prediction  
 - 🔧 Continuous improvement on open-source contributions and personal tools  
-- 💲Loan Eligibility System
+- 💲Loan Eligibility System using Machine Learning Models
 
 ---
 
