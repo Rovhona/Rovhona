@@ -36,7 +36,8 @@ A machine learning system that predicts and scores the quality of fruits and veg
 
 ### 🗄️ Backend & Databases
 - Supabase  
-- PostgreSQL  
+- MongoDB
+- MariaDB  
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
@@ -48,10 +49,8 @@ A machine learning system that predicts and scores the quality of fruits and veg
 
 ## 🚧 What I'm Working On
 
-- 🚀 Full-stack personal portfolio with integrated project showcases  
-- 📊 Honours project (FreshQ) for fresh produce quality prediction using ML  
-- 💲 Loan Eligibility Prediction System with Streamlit + ML backend  
-- 🧪 Experimenting with real-time image classification and computer vision tools  
+- 🚀 A full-stack web application to manage personal finances and loans, with built-in machine learning loan eligibility predictions.  
+- 📊 Honours project (FreshQ) for fresh produce quality prediction using ML   
 - 🛠 Open-source contributions and code quality improvements  
 
 ---
