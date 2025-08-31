@@ -90,4 +90,4 @@ Developed a health-tech platform with an AI chatbot to improve healthcare access
 - 💼 LinkedIn: [linkedin.com/in/rovhona-mudau](https://linkedin.com/in/rovhona-mudau)  
 - 💻 GitHub: [github.com/rovhona](https://github.com/rovhona)  
 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=rovhona.visitor-badge&left_text=Visits)
+
