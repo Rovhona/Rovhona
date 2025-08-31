@@ -1,20 +1,10 @@
 # 👋 Hi, I'm Rovhona Mudau  
 
 🎓 BSc (Hons) Computer Science Candidate  
-💻 Aspiring Full-Stack Developer  
+💻 Aspiring Full-Stack Developer | AI & Cloud Enthusiast  
 🌍 Passionate Problem Solver  
 
-🔗 **Portfolio Website:** [personal-website-steel-delta.vercel.app](https://personal-website-rovhona-mudaus-projects.vercel.app/)  
-
----
-
-## 🌟 About Me  
-
-- 🎓 Final-year Honours student in Computer Science at the University of the Western Cape  
-- 💡 Passionate about building impactful, scalable software solutions  
-- 💻 Experienced in developing full-stack web apps, AI-powered tools, and cloud-integrated platforms  
-- 🧠 Hackathon enthusiast and competitive problem solver  
-- 📬 Let's connect: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)  
+🔗 **Portfolio:** [personal-website-rovhona-mudaus-projects.vercel.app](https://personal-website-rovhona-mudaus-projects.vercel.app/)  
 
 ---
 
@@ -31,51 +21,28 @@
 ## 🧠 Honours Project: FreshQ  
 
 **Quality Index Prediction for Fresh Produce**  
-
-A machine learning system that predicts and scores the quality of fruits and vegetables in real time. The goal is to support smarter agricultural decisions, reduce food waste, and enhance consumer satisfaction. Built with statistical and predictive modeling, the system uses the SDLC for design, implementation, and deployment.  
+A machine learning system that predicts and scores fruit and vegetable quality in real time.  
+The goal: support smarter agricultural decisions, reduce food waste, and enhance consumer satisfaction.  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/shadcn/shadcn.png"></code>
+**Core Languages & Frameworks**  
+Python · JavaScript/TypeScript · C++ · Java · React · Next.js · Tailwind CSS  
 
 **Backend & Databases**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>  
+Supabase · MongoDB · MariaDB  
 
 **Tools & Platforms**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>  
-
----
-
-## 🚧 What I'm Working On  
-
-- 🚀 A full-stack web application to manage personal finances and loans, with built-in machine learning loan eligibility predictions  
-- 📊 Honours project (FreshQ) for fresh produce quality prediction using ML  
-- 🛠 Open-source contributions and code quality improvements  
+Git/GitHub · Vercel · VS Code · Figma  
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🏦 Loan Eligibility Prediction Dashboard  
-A Streamlit-based ML web app to assess loan eligibility for single or batch applicants, featuring real-time prediction confidence, PDF reports, and CSV uploads.  
+A Streamlit-based ML app to assess loan eligibility for single or batch applicants, featuring real-time confidence scores, PDF reports, and CSV uploads.  
 📁 [View Project Repo](https://github.com/Rovhona/Loan-Eligibility-System)  
 
 ### 🩺 InnovativeHealth (UniHack Project)  
@@ -84,10 +51,8 @@ Developed a health-tech platform with an AI chatbot to improve healthcare access
 
 ---
 
-## 🤝 Let's Connect  
+## 🤝 Connect With Me  
 
 - 📧 Email: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rovhona-mudau](https://linkedin.com/in/rovhona-mudau)  
 - 💻 GitHub: [github.com/rovhona](https://github.com/rovhona)  
-
-
