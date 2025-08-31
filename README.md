@@ -41,17 +41,10 @@
 - 💡 Passionate about building impactful, scalable software solutions  
 - 💻 Experienced in full-stack web apps, AI tools & cloud platforms  
 - 🧠 Hackathon enthusiast & competitive problem solver  
-- 📬 Let's connect: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)
 
 ---
 
-## 🧠 Honours Project: FreshQ
 
-**Quality Index Prediction for Fresh Produce**  
-
-A machine learning system that predicts and scores the quality of fruits and vegetables in real time. Supports smarter agricultural decisions, reduces food waste, and enhances consumer satisfaction.
-
----
 
 ## 🛠️ Technical Expertise
 
