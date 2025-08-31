@@ -1,97 +1,96 @@
-# 👋 Hi, I'm Rovhona Mudau  
+<p align="center">
+  <img src="https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Rovhona+Mudau+-+BSc+Hons+Computer+Science+Candidate" alt="Rovhona Mudau Banner" />
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Rovhona+Mudau+-+BSc+Hons+Computer+Science+Candidate" alt="Rovhona Mudau Banner" />
+</p>
 
-🎓 BSc (Hons) Computer Science Candidate  
-💻 Aspiring Full-Stack Developer  
-🌍 Passionate Problem Solver  
+<h1 align="center">Hi 👋, I'm Rovhona Mudau</h1>
+<h3 align="center">Aspiring Full-Stack Developer | AI & Cloud Enthusiast | Problem Solver 🌍</h3>
 
-🔗 **Portfolio Website:** [personal-website-steel-delta.vercel.app](https://personal-website-rovhona-mudaus-projects.vercel.app/)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rovhona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## ☕ Support My Work  
-
-If you like what I do, consider buying me a coffee:  
-
-<a href="https://www.buymeacoffee.com/rovhona" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>  
-
----
-
-## 🌟 About Me  
-
-- 🎓 Final-year Honours student in Computer Science at the University of the Western Cape  
-- 💡 Passionate about building impactful, scalable software solutions  
-- 💻 Experienced in developing full-stack web apps, AI-powered tools, and cloud-integrated platforms  
-- 🧠 Hackathon enthusiast and competitive problem solver  
-- 📬 Let's connect: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)  
-
----
-
-## 📊 GitHub Stats  
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Rovhona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rovhona&show_icons=true&include_all_commits=true&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Rovhona's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovhona&layout=compact&theme=buefy" /></a> |
-| ------------- | ------------- |
-
-| ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rovhona&theme=buefy) |
-| ------------- |
+<p align="center">
+  <a href="https://linkedin.com/in/rovhona-mudau" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rovhona%20Mudau-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rovhona" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rovhona-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="mailto:mudaurovhona576@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://personal-website-rovhona-mudaus-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Honours Project: FreshQ  
-
-**Quality Index Prediction for Fresh Produce**  
-
-A machine learning system that predicts and scores the quality of fruits and vegetables in real time. The goal is to support smarter agricultural decisions, reduce food waste, and enhance consumer satisfaction. Built with statistical and predictive modeling, the system uses the SDLC for design, implementation, and deployment.  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-**Languages & Frameworks**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/shadcn/shadcn.png"></code>  
-
-**Backend & Databases**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>  
-
-**Tools & Platforms**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>  
+<h3 align="center">☕ Support My Work</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rovhona">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
-## 🚧 What I'm Working On  
-
-- 🚀 A full-stack web application to manage personal finances and loans, with built-in machine learning loan eligibility predictions  
-- 📊 Honours project (FreshQ) for fresh produce quality prediction using ML  
-- 🛠 Open-source contributions and code quality improvements  
-
----
-
-## 📌 Featured Projects  
-
-### 🏦 Loan Eligibility Prediction Dashboard  
-A Streamlit-based ML web app to assess loan eligibility for single or batch applicants, featuring real-time prediction confidence, PDF reports, and CSV uploads.  
-📁 [View Project Repo](https://github.com/Rovhona/Loan-Eligibility-System)  
-
-### 🩺 InnovativeHealth (UniHack Project)  
-Developed a health-tech platform with an AI chatbot to improve healthcare access in underserved communities.  
-📍 Liberty Life Building, Standard Bank UniHack 2024  
+<h3 align="center">🌟 About Me</h3>
+<p align="center">
+🎓 Final-year Honours Computer Science student at the University of the Western Cape.  
+💡 Passionate about building impactful, scalable software solutions.  
+💻 Experienced in full-stack web apps, AI tools & cloud platforms.  
+🧠 Hackathon enthusiast & competitive problem solver.  
+</p>
 
 ---
 
-## 🤝 Let's Connect  
+<h3 align="center">🧠 Honours Project: FreshQ</h3>
+<p align="center">
+<b>Quality Index Prediction for Fresh Produce</b><br/>
+Machine learning system that predicts and scores the quality of fruits and vegetables in real time to support smarter agricultural decisions, reduce food waste, and enhance consumer satisfaction.
+</p>
 
-- 📧 Email: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rovhona-mudau](https://linkedin.com/in/rovhona-mudau)  
-- 💻 GitHub: [github.com/rovhona](https://github.com/rovhona)  
+---
+
+<h3 align="center">🛠 My Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">📌 Projects</h3>
+<p align="center">
+  <a href="https://github.com/Rovhona/Loan-Eligibility-System" target="_blank">
+    <img src="https://img.shields.io/badge/Loan%20Eligibility-ML%20Dashboard-blue?logo=streamlit&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Rovhona" target="_blank">
+    <img src="https://img.shields.io/badge/InnovativeHealth-UniHack2024-red?logo=github&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rovhona&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rovhona&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rovhona&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
+</p>
