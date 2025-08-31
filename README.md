@@ -1,23 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Rovhona+Mudau+-+BSc+Hons+Computer+Science+Candidate" alt="Rovhona Mudau Banner" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Rovhona Mudau</h1>
-<h3 align="center">Aspiring Full-Stack Developer | AI & Cloud Enthusiast | Problem Solver 🌍</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rovhona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rovhona-mudau" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rovhona%20Mudau-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/rovhona" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rovhona-black?logo=github&style=for-the-badge" />
-  </a><p align="center">
-  <img src="https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Rovhona+Mudau+-+BSc+Hons+Computer+Science+Candidate" alt="Rovhona Mudau Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Rovhona Mudau</h1>
 <h3 align="center">Aspiring Full-Stack Developer | AI & Cloud Enthusiast | Problem Solver 🌍</h3>
@@ -46,10 +27,11 @@
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/rovhona">
+  <a href="https://buymeacoffee.com/rovhona" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
+
 
 ---
 
