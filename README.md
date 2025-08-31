@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/rovhona">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.[buymeacoffee.com](https://buymeacoffee.com/rovhona)/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
