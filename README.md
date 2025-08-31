@@ -6,6 +6,12 @@
 
 🔗 **Portfolio Website:** [personal-website-steel-delta.vercel.app](https://personal-website-rovhona-mudaus-projects.vercel.app/)  
 
+## ☕ Support My Work  
+
+If you like what I do, consider buying me a coffee:  
+
+<a href="https://www.buymeacoffee.com/rovhona" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>  
+
 ---
 
 ## 🌟 About Me  
@@ -48,7 +54,7 @@ A machine learning system that predicts and scores the quality of fruits and veg
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/shadcn/shadcn.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/shadcn/shadcn.png"></code>  
 
 **Backend & Databases**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
@@ -89,11 +95,3 @@ Developed a health-tech platform with an AI chatbot to improve healthcare access
 - 📧 Email: [mudaurovhona576@gmail.com](mailto:mudaurovhona576@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/rovhona-mudau](https://linkedin.com/in/rovhona-mudau)  
 - 💻 GitHub: [github.com/rovhona](https://github.com/rovhona)  
-
-
-## ☕ Support My Work  
-
-If you like what I do, consider buying me a coffee:  
-
-<a href="https://www.buymeacoffee.com/rovhona" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
-
