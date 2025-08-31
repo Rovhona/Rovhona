@@ -91,3 +91,9 @@ Developed a health-tech platform with an AI chatbot to improve healthcare access
 - 💻 GitHub: [github.com/rovhona](https://github.com/rovhona)  
 
 
+## ☕ Support My Work  
+
+If you like what I do, consider buying me a coffee:  
+
+<a href="https://www.buymeacoffee.com/rovhona" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
+
