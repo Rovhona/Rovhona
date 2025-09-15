@@ -88,19 +88,7 @@
 </p>
 
 ---
-## 📌 Projects
 
-[💰 Loan Eligibility Dashboard](https://github.com/Rovhona/Loan-Eligibility-System)  
-Streamlit ML web app to assess loan eligibility for single or batch applicants.
-
-[🏥 InnovativeHealth – UniHack 2024](#)  
-Health-tech platform with AI chatbot for underserved communities (UniHack 2024).
-
-[📄 AI Resume Reviewer](https://ai-resume-reviewer-eight.vercel.app/)  
-Full-stack app for AI-powered resume analysis, keyword extraction, and structured feedback.  
-[🔗 GitHub](https://github.com/Rovhona/ai-resume-reviewer) | [🌐 Live Demo](https://ai-resume-reviewer-eight.vercel.app/)
-
----
 
 
 ## 📊 GitHub Stats
