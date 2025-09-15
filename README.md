@@ -65,13 +65,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-Workflow-blue?logo=githubactions&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pdfplumber-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-docx-3776AB?style=for-the-badge" />
 </p>
 
 ### Advanced Competencies
@@ -89,19 +88,19 @@
 </p>
 
 ---
+## 📌 Projects
 
-## 🚀 Featured Projects
+[Loan Eligibility Dashboard](https://github.com/Rovhona/Loan-Eligibility-System)  
+Streamlit ML web app to assess loan eligibility for single or batch applicants.
 
-- **[AI Resume Reviewer](https://ai-resume-reviewer-eight.vercel.app/)**  
-  Full-stack app that provides AI-powered resume analysis, keyword extraction, and structured feedback.  
-  [🔗 GitHub](https://github.com/Rovhona/ai-resume-reviewer) | [🌐 Live Demo](https://ai-resume-reviewer-eight.vercel.app/)
+[InnovativeHealth– UniHack (2024)]  
+Health-tech platform with AI chatbot for underserved communities (UniHack 2024).
 
-- **[Loan Eligibility Prediction System](https://rovhona-loan-eligibility-system-app-lr6p2d.streamlit.app/)**  
-  Web-based dashboard that predicts loan approvals using machine learning.  
-  [🔗 GitHub](https://github.com/Rovhona/Loan-Eligibility-System) | [🌐 Live Demo](https://rovhona-loan-eligibility-system-app-lr6p2d.streamlit.app/)
+[AI Resume Reviewer](https://ai-resume-reviewer-eight.vercel.app/)
+Full-stack app that provides AI-powered resume analysis, keyword extraction, and structured feedback.  
+[🔗 GitHub](https://github.com/Rovhona/ai-resume-reviewer) | [🌐 Live Demo](https://ai-resume-reviewer-eight.vercel.app/)
 
-- **InnovativeHealth – UniHack (2024)**  
-  Hackathon project: AI-powered health chatbot improving healthcare access in underserved communities.
+---
 
 
 ## 📊 GitHub Stats
