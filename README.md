@@ -90,18 +90,19 @@
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Rovhona/Loan-Eligibility-System" target="_blank">
-    <img src="https://img.shields.io/badge/Loan_Eligibility_Dashboard-Project-blue?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Rovhona" target="_blank">
-    <img src="https://img.shields.io/badge/InnovativeHealth-Project-green?logo=github&style=for-the-badge" />
-  </a>
-</p>
+- **[AI Resume Reviewer](https://ai-resume-reviewer-eight.vercel.app/)**  
+  Full-stack app that provides AI-powered resume analysis, keyword extraction, and structured feedback.  
+  [🔗 GitHub](https://github.com/Rovhona/ai-resume-reviewer) | [🌐 Live Demo](https://ai-resume-reviewer-eight.vercel.app/)
 
----
+- **[Loan Eligibility Prediction System](https://rovhona-loan-eligibility-system-app-lr6p2d.streamlit.app/)**  
+  Web-based dashboard that predicts loan approvals using machine learning.  
+  [🔗 GitHub](https://github.com/Rovhona/Loan-Eligibility-System) | [🌐 Live Demo](https://rovhona-loan-eligibility-system-app-lr6p2d.streamlit.app/)
+
+- **InnovativeHealth – UniHack (2024)**  
+  Hackathon project: AI-powered health chatbot improving healthcare access in underserved communities.
+
 
 ## 📊 GitHub Stats
 
