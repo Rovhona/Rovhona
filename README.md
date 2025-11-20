@@ -95,7 +95,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rovhona&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rovhona&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rovhona&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
